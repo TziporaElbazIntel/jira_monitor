@@ -1,0 +1,7 @@
+requests>=2.31
+pypac>=0.16
+keyring>=24.0
+pystray>=0.19.5
+Pillow>=10.1
+winotify>=1.1.0
+pyinstaller>=6.0
